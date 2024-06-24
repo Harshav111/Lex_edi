@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Lex_edi/static/css/main.f390894f.css",
+    "main.js": "/Lex_edi/static/js/main.5231d9aa.js",
+    "static/css/987.e154aff4.chunk.css": "/Lex_edi/static/css/987.e154aff4.chunk.css",
+    "static/js/987.75d19e78.chunk.js": "/Lex_edi/static/js/987.75d19e78.chunk.js",
+    "static/js/453.9ddc1f0b.chunk.js": "/Lex_edi/static/js/453.9ddc1f0b.chunk.js",
+    "static/js/173.0c51baa9.chunk.js": "/Lex_edi/static/js/173.0c51baa9.chunk.js",
+    "index.html": "/Lex_edi/index.html",
+    "main.f390894f.css.map": "/Lex_edi/static/css/main.f390894f.css.map",
+    "main.5231d9aa.js.map": "/Lex_edi/static/js/main.5231d9aa.js.map",
+    "987.e154aff4.chunk.css.map": "/Lex_edi/static/css/987.e154aff4.chunk.css.map",
+    "987.75d19e78.chunk.js.map": "/Lex_edi/static/js/987.75d19e78.chunk.js.map",
+    "453.9ddc1f0b.chunk.js.map": "/Lex_edi/static/js/453.9ddc1f0b.chunk.js.map",
+    "173.0c51baa9.chunk.js.map": "/Lex_edi/static/js/173.0c51baa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f390894f.css",
+    "static/js/main.5231d9aa.js"
+  ]
+}
